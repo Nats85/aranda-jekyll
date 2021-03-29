@@ -1,0 +1,7 @@
+docs:
+  - title: Instalación
+    chapter: "instalacion"
+  - title: Configuración
+    chapter: "configuracion"
+  - title: Agente
+    chapter: "agente"  
